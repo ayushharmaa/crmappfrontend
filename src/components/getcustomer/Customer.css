@@ -1,0 +1,60 @@
+.customerTable{
+    width: 80%;
+    background-color:#e7e7e7;
+    box-shadow: 1px 1px 8px rgba(0,0,0,0.065);
+    border-radius: 5px;
+    margin: 50px auto;
+    padding: 50px;
+
+}
+.addButton{
+    text-decoration: none;
+    
+    color: rgb(12, 5, 0);
+    font-weight: 300;
+    box-shadow:1px 1px 5px rgba(0,0,0,0.065) ;
+    border-radius: 2px;
+    padding: 5 px;
+}
+
+.customerTable table{
+    width:100%;
+    margin-top:30px;
+    border-collapse: collapse;
+
+}
+
+.customerTable table thead th{
+    background-color: rgb(4, 116, 116);
+    color: white;
+    padding: 10px;
+}
+
+.customerTable table tbody td{
+    padding: 10px;
+    text-align: center;
+}
+
+.actionButtons button{
+    
+    outline: none;
+    background-color: rgb(249, 210, 15);
+    padding: 10px 15px ;
+    color:white;
+    border-radius:5px;
+    cursor:pointer;
+    
+}
+
+.actionButtons a{
+    border:5px;
+    background-color: rgb(1, 96, 6);
+    padding: 6px 10px;
+    color:white;
+    border-radius:5px;
+    margin:0 10px;
+    text-decoration: none;
+    
+    
+
+}

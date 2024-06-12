@@ -1,0 +1,31 @@
+.content button{
+    border:0;
+    position: inherit;
+    outline: none;
+    color: beige;
+    background-color: rgb(10, 124, 132);
+    font-weight: 800;
+    padding: 18px;
+    box-shadow: 1px 1px 8px rgba(0,0,0,0.065);
+    border-radius: 25px;
+    margin-left: 50%;
+    margin-top: 10%;
+
+}
+
+.content h1{
+    text-decoration:underline;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(1, 21, 21);
+    
+    margin-left: 30%;
+
+}
+.content h2{
+    margin-top: 5%;
+    margin-left: 50%;
+    text-shadow: 20;
+    color: #032f53;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-variant: small-caps;
+}
